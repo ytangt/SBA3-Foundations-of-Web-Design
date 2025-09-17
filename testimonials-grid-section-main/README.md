@@ -1,4 +1,4 @@
-## 📖 Project Overview
+## Project Overview
 This project is an implementation of the **[Frontend Mentor – Testimonials Grid Section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)** challenge.  
 The goal was to recreate a responsive testimonials grid using Bootstrap, while applying utility classes and custom CSS to match the design as closely as possible.
 

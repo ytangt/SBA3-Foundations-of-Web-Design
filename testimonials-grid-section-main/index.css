@@ -1,0 +1,22 @@
+body{
+    font-family: "Barlow Semi Condensed", sans-serif;
+    background-color:hsl(214, 17%, 92%);
+}
+main.container {
+    max-width:1200px;
+}
+    
+.bg-violet {
+    background-color: hsl(263, 55%, 52%);
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: right 20% top;
+}
+
+.card {    
+    border: 1px solid rgba(0,0,0,0.1); 
+    box-shadow: 
+    0 8px 12px rgba(0,0,0,0.1),
+    0 16px 40px rgba(0,0,0,0.15),
+    0 24px 80px rgba(0,0,0,0.1);
+}
